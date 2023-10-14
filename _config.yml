@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shirley X. L. Lim"
-  avatar           : "SL.jpg"
+  avatar           : "SL.jpeg"
   bio              : "Postdoc at Center for Taste and Feeding Behaviour, INRAE. My work primarily centers around flavor perception, where I am investigating the underlying brain mechanisms of taste-odor integration"
   location         : "Dijon, France"
   employer         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bluesky          : "shirllim.bsky.social"
 
 
 # Reading Files
