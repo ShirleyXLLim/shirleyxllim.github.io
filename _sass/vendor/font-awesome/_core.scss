@@ -2,6 +2,11 @@
 // -------------------------
 
 .#{$fa-css-prefix},
+.#{$fa-css-prefix},
+.#{$fa-css-prefix}-classic,
+.#{$fa-css-prefix}-sharp,
+.#{$fa-css-prefix}-solid,
+.#{$fa-css-prefix}-regular,
 .fas,
 .far,
 .fal,
@@ -14,6 +19,8 @@
   text-rendering: auto;
   line-height: 1;
 }
+
+
 
 %fa-icon {
   @include fa-icon;
